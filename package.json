@@ -1,0 +1,18 @@
+{
+  "name": "page_example_domain",
+  "version": "1.0.0",
+  "description": "Page which was used to serve an simple html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"example\""
+  ],
+  "author": "Erick Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  }
+}
